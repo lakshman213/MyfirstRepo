@@ -1,3 +1,3 @@
 # MyfirstRepo
 My First Repo <BR> 
-<B> Author : Lakshman</B>
+<B> Author : Lakshman P R </B>
